@@ -1,0 +1,19 @@
+Dear <b>{name}</b>,
+
+I hope you’re doing well.
+I’m Prashant Natekar, a Software Developer with a strong foundation in Java, SQL, HTML, CSS, and JavaScript, currently pursuing Java Full Stack with DevOps at QSpiders, Pune 411045.
+
+I recently came across your profile and noticed your experience at <b>{company}</b>. I truly admire the company’s focus on innovation and technology, and I’d love to be a part of such a dynamic environment.
+
+I’ve built a few practical <b>projects like a Full-Stack ID Creation & Management Tool</b> integrating frontend (HTML/CSS/JS) with backend (Python/SQL), demonstrating my ability to handle complete development cycles and database connectivity.
+
+<b>If there’s any Software Developer, Web Developer, or Full Stack Developer opening that aligns with my profile</b>, I would be grateful if you could refer me for a suitable opportunity.
+
+<b>Please find my resume attached for your reference.</b>
+I’d appreciate any guidance or referral support you could offer.
+
+Thank you for your time and support!
+Warm regards,
+<b>Prashant Natekar
+Pune, Maharashtra
+8686648181</b>
